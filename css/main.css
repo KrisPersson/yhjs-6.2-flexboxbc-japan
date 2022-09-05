@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(226, 226, 226);
+}
+.flag {
+    display: inherit;
+    justify-content: inherit;
+    align-items: inherit;
+    background: #fff;
+    width:450px;
+    height:300px;
+    box-shadow: 3px 3px 21px rgb(0 0 0 / .2);
+    margin-top: 20px;
+}
+.circle {
+    background-color: rgb(192, 1, 1);
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+}
